@@ -20,5 +20,3 @@ ellipse(150,150,50,50);
 //Black of the eye
 
 
-//save function
-save("Timothy.Eyeball.Drawing.png");
